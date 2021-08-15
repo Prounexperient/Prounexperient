@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prounexperient
-- 👀 I’m interested in, vut limited to, improve my skills with Python and Java, creating mainly web applications from DB schemas, server development, to client side.
+- 👀 I’m interested in, but not limited to, improve my skills with Python and Java, creating mainly web applications from DB schemas, server development, to client side.
 - 🌱 I’m currently learning Java, Springboot, DB design.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, through my Linkedin <profile-link>
