@@ -40,6 +40,22 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 
 ---
 
+## 📊 Proficiências em Tecnologias
+
+### 📌 Linguagens (Gráfico de Pizza)
+![Python, Java, JavaScript](https://your-chart-image-link-here.com/piechart.png)
+
+### 📌 Frameworks Backend (Barras Verticais)
+![Django, Reflex](https://your-chart-image-link-here.com/vertical-bars.png)
+
+### 📌 Frameworks Frontend (Barras Horizontais)
+![React.js, Vue.js](https://your-chart-image-link-here.com/horizontal-bars.png)
+
+### 📌 Outras Tecnologias (Gráfico de Circunferência)
+![Outras Tecnologias](https://your-chart-image-link-here.com/circular-chart.png)
+
+---
+
 ## 🌎 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ffcc?style=for-the-badge&logo=linkedin&logoColor=black)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/rodrigo-rodrigues-15021b5a/))
