@@ -24,10 +24,9 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ## Tecnologias e Ferramentas
 
 ### 💻 Python
-> ![Python](https://img.icons8.com/?size=100&id=BCQsbzkWBELK&format=png&color=000000)
-> ![Django](https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000)
-> ![Reflex](https://reflex.dev/logos/dark/reflex.svg)
-
+- ![Python](https://img.icons8.com/?size=100&id=BCQsbzkWBELK&format=png&color=000000)
+- ![Django](https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000)
+- ![Reflex](https://reflex.dev/logos/dark/reflex.svg)
 > Django e Reflex compartilham a mesma finalidade de desenvolvimento fullstack em Python.
 
 ---
