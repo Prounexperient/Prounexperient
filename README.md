@@ -46,10 +46,3 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ---
 
 <p align="center">⚡ "We have a city to Hack." ⚡</p>
-
-
-
-<!---
-Prounexperient/Prounexperient is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
