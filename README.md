@@ -22,21 +22,47 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 💻 Python
+- **[Django](https://www.djangoproject.com/)** – Framework fullstack (Backend + Frontend)
+- **[Reflex](https://reflex.dev/)** – Framework fullstack (Backend + Frontend)
+  
+  > Django e Reflex compartilham a mesma finalidade de desenvolvimento fullstack em Python.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%2300ffcc?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-%23fcee0c?style=for-the-badge&logo=openjdk&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-%23ff005c?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Django-%2300ffcc?style=for-the-badge&logo=django&logoColor=black">
-  <img src="https://img.shields.io/badge/Reflex-%23fcee0c?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/React-%23ff005c?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL%20Server-%2300ffcc?style=for-the-badge&logo=microsoftsqlserver&logoColor=black">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23fcee0c?style=for-the-badge&logo=postgresql&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-%23ff005c?style=for-the-badge&logo=git&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-%2300ffcc?style=for-the-badge&logo=docker&logoColor=black">
-  <img src="https://img.shields.io/badge/Tkinter-%23fcee0c?style=for-the-badge&logo=python&logoColor=black">
-</p>
+---
+
+### 🌐 Frontend
+- **[Vue.js](https://vuejs.org/)** – Framework JavaScript para construção de interfaces dinâmicas.
+- **HTML5**
+- **CSS3**
+- **SASS**
+- **[Bootstrap](https://getbootstrap.com/)** – Framework CSS para designs responsivos.
+
+  > Vue.js é utilizado em conjunto com HTML, CSS, SASS e Bootstrap para criação de interfaces modernas e interativas.
+
+---
+
+### ⚙️ Backend
+- **[Node.js](https://nodejs.org/)** – Ambiente de execução para JavaScript no backend.
+- **[Express](https://expressjs.com/)** – Framework para Node.js, útil no desenvolvimento de APIs.
+
+  > Node.js e Express são comumente usados juntos para desenvolvimento de backend com JavaScript.
+
+---
+
+### 🗄️ Banco de Dados
+- **[MySQL](https://www.mysql.com/)** – Banco de dados relacional.
+- **[PostgreSQL](https://www.postgresql.org/)** – Banco de dados relacional com maior foco em integridade dos dados e flexibilidade.
+
+  > MySQL e PostgreSQL são amplamente utilizados para gerenciamento de dados em aplicações web.
+
+---
+
+### 🛠️ Ferramentas e outras tecnologias
+- **[Git](https://git-scm.com/)** – Controle de versão.
+- **[Docker](https://www.docker.com/)** – Plataforma de containers.
+- **[Nginx](https://www.nginx.com/)** – Servidor web e proxy reverso.
+
+---
 
 ## 🌎 Conecte-se comigo
 
