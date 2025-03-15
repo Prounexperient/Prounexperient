@@ -24,11 +24,12 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ## Tecnologias e Ferramentas
 
 ### 💻 Python
-![Python](https://img.icons8.com/ios/50/python.png)  
-- **[Django](https://www.djangoproject.com/)** – Framework fullstack (Backend + Frontend) 
+![Python](https://img.icons8.com/ios/50/python.png)
 ![Django](https://img.icons8.com/ios/50/django.png)
+
 - **[Reflex](https://reflex.dev/)** – Framework fullstack (Backend + Frontend)
-  > Django e Reflex compartilham a mesma finalidade de desenvolvimento fullstack em Python.
+
+> Django e Reflex compartilham a mesma finalidade de desenvolvimento fullstack em Python.
 
 ---
 
@@ -38,21 +39,25 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ![CSS3](https://img.icons8.com/ios/50/css3.png)
 ![SASS](https://img.icons8.com/ios/50/sass.png)
 ![Bootstrap](https://img.icons8.com/ios/50/bootstrap.png)
-  > Vue.js é utilizado em conjunto com HTML, CSS, SASS e Bootstrap para criação de interfaces modernas e interativas.
+
+> Vue.js é utilizado em conjunto com HTML, CSS, SASS e Bootstrap para criação de interfaces modernas e interativas.
 ---
 ### ⚙️ Backend  
 ![Node.js](https://img.icons8.com/ios/50/nodejs.png)
 ![Express](https://img.icons8.com/ios/50/express-js.png)
-  > Node.js e Express são comumente usados juntos para desenvolvimento de backend com JavaScript.
+
+> Node.js e Express são comumente usados juntos para desenvolvimento de backend com JavaScript.
 ---
 
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.icons8.com/ios/50/mysql-logo.png) ![PostgreSQL](https://img.icons8.com/ios/50/postgreesql.png)
-  > MySQL e PostgreSQL são amplamente utilizados para gerenciamento de dados em aplicações web.
+
+> MySQL e PostgreSQL são amplamente utilizados para gerenciamento de dados em aplicações web.
 ---
 
 ### 🛠️ Ferramentas e outras tecnologias
 ![Git](https://img.icons8.com/ios/50/git.png) ![Docker](https://img.icons8.com/ios/50/docker.png)
+
 - **[Nginx](https://www.nginx.com/)** – Servidor web e proxy reverso.
 
 ---
