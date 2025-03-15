@@ -24,58 +24,37 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ## Tecnologias e Ferramentas
 
 ### 💻 Python
-![Python](https://img.icons8.com/ios/100/python.png)  
-- **[Django](https://www.djangoproject.com/)** – Framework fullstack (Backend + Frontend)  
-  ![Django](https://img.icons8.com/ios/100/django.png)
-- **[Reflex](https://reflex.dev/)** – Framework fullstack (Backend + Frontend)  
-  ![Reflex](https://img.icons8.com/ios/100/react.png) <!-- Reflex não tem ícone oficial, então substituí com um ícone de React -->
+![Python](https://img.icons8.com/ios/50/python.png)  
+- **[Django](https://www.djangoproject.com/)** – Framework fullstack (Backend + Frontend) ![Django](https://img.icons8.com/ios/50/django.png)
+- **[Reflex](https://reflex.dev/)** – Framework fullstack (Backend + Frontend)  ![Reflex](https://img.icons8.com/ios/50/react.png) <!-- Reflex não tem ícone oficial, então substituí com um ícone de React -->
 
   > Django e Reflex compartilham a mesma finalidade de desenvolvimento fullstack em Python.
 
 ---
 
-### 🌐 Frontend
-![Vue.js](https://img.icons8.com/ios/50/vue-js.png)  
-- **[Vue.js](https://vuejs.org/)** – Framework JavaScript para construção de interfaces dinâmicas.
-- **HTML5**  
-  ![HTML5](https://img.icons8.com/ios/50/html-5.png)
-- **CSS3**  
-  ![CSS3](https://img.icons8.com/ios/50/css3.png)
-- **SASS**  
-  ![SASS](https://img.icons8.com/ios/50/sass.png)
-- **[Bootstrap](https://getbootstrap.com/)** – Framework CSS para designs responsivos.  
-  ![Bootstrap](https://img.icons8.com/ios/50/bootstrap.png)
-
+### 🌐 Frontend  
+- **[Vue.js](https://vuejs.org/)** – Framework JavaScript para construção de interfaces dinâmicas. ![Vue.js](https://img.icons8.com/ios/50/vue-js.png)
+- **HTML5**  ![HTML5](https://img.icons8.com/ios/50/html-5.png)
+- **CSS3**  ![CSS3](https://img.icons8.com/ios/50/css3.png)
+- **SASS**  ![SASS](https://img.icons8.com/ios/50/sass.png)
+- **[Bootstrap](https://getbootstrap.com/)** – Framework CSS para designs responsivos.  ![Bootstrap](https://img.icons8.com/ios/50/bootstrap.png)
   > Vue.js é utilizado em conjunto com HTML, CSS, SASS e Bootstrap para criação de interfaces modernas e interativas.
-
 ---
-
-### ⚙️ Backend
-![Node.js](https://img.icons8.com/ios/50/nodejs.png)  
-- **[Node.js](https://nodejs.org/)** – Ambiente de execução para JavaScript no backend.
-- **[Express](https://expressjs.com/)** – Framework para Node.js, útil no desenvolvimento de APIs.  
-  ![Express](https://img.icons8.com/ios/50/express-js.png)
-
+### ⚙️ Backend  
+- **[Node.js](https://nodejs.org/)** – Ambiente de execução para JavaScript no backend.  ![Node.js](https://img.icons8.com/ios/50/nodejs.png)
+- **[Express](https://expressjs.com/)** – Framework para Node.js, útil no desenvolvimento de APIs.  ![Express](https://img.icons8.com/ios/50/express-js.png)
   > Node.js e Express são comumente usados juntos para desenvolvimento de backend com JavaScript.
-
 ---
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.icons8.com/ios/50/mysql-logo.png)  
-- **[MySQL](https://www.mysql.com/)** – Banco de dados relacional.
-- **[PostgreSQL](https://www.postgresql.org/)** – Banco de dados relacional com maior foco em integridade dos dados e flexibilidade.  
-  ![PostgreSQL](https://img.icons8.com/ios/50/postgreesql.png)
-
+- **[MySQL](https://www.mysql.com/)** – Banco de dados relacional.  ![MySQL](https://img.icons8.com/ios/50/mysql-logo.png)
+- **[PostgreSQL](https://www.postgresql.org/)** – Banco de dados relacional com maior foco em integridade dos dados e flexibilidade.  ![PostgreSQL](https://img.icons8.com/ios/50/postgreesql.png)
   > MySQL e PostgreSQL são amplamente utilizados para gerenciamento de dados em aplicações web.
-
 ---
 
 ### 🛠️ Ferramentas e outras tecnologias
-![Git](https://img.icons8.com/ios/50/git.png)  
-- **[Git](https://git-scm.com/)** – Controle de versão.
-![Docker](https://img.icons8.com/ios/50/docker.png)  
-- **[Docker](https://www.docker.com/)** – Plataforma de containers.
-![Nginx](https://img.icons8.com/ios/50/nginx.png)  
+- **[Git](https://git-scm.com/)** – Controle de versão.  ![Git](https://img.icons8.com/ios/50/git.png)
+- **[Docker](https://www.docker.com/)** – Plataforma de containers.  ![Docker](https://img.icons8.com/ios/50/docker.png)
 - **[Nginx](https://www.nginx.com/)** – Servidor web e proxy reverso.
 
 ---
