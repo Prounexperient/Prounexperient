@@ -34,7 +34,7 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ---
 
 ### 🌐 Frontend  
-![Vue.js](https://img.icons8.com/ios/50/vue-js.png)
+![Vue.js](https://img.icons8.com/ios/50/vuejs.png)
 ![HTML5](https://img.icons8.com/ios/50/html-5.png)
 ![CSS3](https://img.icons8.com/ios/50/css3.png)
 ![SASS](https://img.icons8.com/ios/50/sass.png)
