@@ -42,19 +42,17 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 
 ## 📊 Proficiências em Tecnologias
 
+### 📌 Linguagens (Gráfico de Pizza)
 ![Linguagens](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','Java','JavaScript'],datasets:[{data:[85,75,80]}]}})
 
-### 📌 Linguagens (Gráfico de Pizza)
-![Python, Java, JavaScript](https://your-chart-image-link-here.com/piechart.png)
-
 ### 📌 Frameworks Backend (Barras Verticais)
-![Django, Reflex](https://your-chart-image-link-here.com/vertical-bars.png)
+![Backend](https://quickchart.io/chart?c={type:'bar',data:{labels:['Django','Reflex'],datasets:[{label:'Proficiência',data:[80,60]}]},options:{scales:{y:{beginAtZero:true,max:100}}}})
 
 ### 📌 Frameworks Frontend (Barras Horizontais)
-![React.js, Vue.js](https://your-chart-image-link-here.com/horizontal-bars.png)
+![Frontend](https://quickchart.io/chart?c={type:'bar',data:{labels:['React.js','Vue.js'],datasets:[{label:'Proficiência',data:[75,65]}]},options:{indexAxis:'y',scales:{x:{beginAtZero:true,max:100}}}})
 
-### 📌 Outras Tecnologias (Gráfico de Circunferência)
-![Outras Tecnologias](https://your-chart-image-link-here.com/circular-chart.png)
+### 📌 Outras Tecnologias (Gráfico Circular)
+![Outras Tecnologias](https://quickchart.io/chart?c={type:'radar',data:{labels:['SQL Server','PostgreSQL','Docker','Git','Tkinter'],datasets:[{label:'Proficiência',data:[70,75,60,85,50]}]}})
 
 ---
 
