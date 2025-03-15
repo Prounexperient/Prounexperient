@@ -43,7 +43,7 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 > Vue.js é utilizado em conjunto com HTML, CSS, SASS e Bootstrap para criação de interfaces modernas e interativas.
 ---
 ### ⚙️ Backend  
-![Node.js]([https://img.icons8.com/ios/50/node.js.png](https://icons8.com/icon/ouWtcsgDBiwO/node-js))
+![Node.js](https://icons8.com/icon/ouWtcsgDBiwO/node-js)
 ![Express](https://img.icons8.com/ios/50/express-js.png)
 
 > Node.js e Express são comumente usados juntos para desenvolvimento de backend com JavaScript.
