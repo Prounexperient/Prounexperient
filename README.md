@@ -1,6 +1,6 @@
 ![Cyberpunk Banner](https://livewallp.com/wp-content/uploads/2021/10/Cyberpunk-2077-219.jpg)
 
-<h1 align="center" style="color:#ff005c;">Rodrigo | Cyberpunk Dev</h1>
+<h1 align="center" style="color:#ff005c;">Rodrigo | Dev</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python|Java|JS-%23fcee0c?style=for-the-badge&logo=codepen&logoColor=black">
