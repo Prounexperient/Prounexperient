@@ -24,34 +24,34 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ## Tecnologias e Ferramentas
 
 ### 💻 BACKEND & FRONTEND com Python e Frameworks
-![Python](https://img.icons8.com/?size=100&id=BCQsbzkWBELK&format=png&color=000000)
-![Django](https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000)
+![Python](https://img.icons8.com/?size=50&id=BCQsbzkWBELK&format=png&color=000000)
+![Django](https://img.icons8.com/?size=50&id=IuuVVwsdTi2v&format=png&color=000000)
 ![Reflex](https://reflex.dev/logos/dark/reflex.svg)
 > Django e Reflex compartilham a mesma finalidade de desenvolvimento fullstack em Python.
 ---
 ### 🌐 Frontend Only  
-![Vue.js](https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000)
-![HTML5](https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000)
-![CSS3](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000)
-![SASS](https://img.icons8.com/?size=100&id=qsQZWvMuX4ad&format=png&color=000000)
-![Bootstrap](https://img.icons8.com/?size=100&id=ZMc42tPbG32H&format=png&color=000000)
+![Vue.js](https://img.icons8.com/?size=50&id=rY6agKizO9eb&format=png&color=000000)
+![HTML5](https://img.icons8.com/?size=50&id=D2Hi2VkJSi33&format=png&color=000000)
+![CSS3](https://img.icons8.com/?size=50&id=YjeKwnSQIBUq&format=png&color=000000)
+![SASS](https://img.icons8.com/?size=50&id=qsQZWvMuX4ad&format=png&color=000000)
+![Bootstrap](https://img.icons8.com/?size=50&id=ZMc42tPbG32H&format=png&color=000000)
 > Vue.js é utilizado em conjunto com HTML, CSS, SASS e Bootstrap para criação de interfaces modernas e interativas.
 ---
 ### ⚙️ Backend Only
-![Node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
-![Express](https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000)
+![Node.js](https://img.icons8.com/?size=50&id=hsPbhkOH4FMe&format=png&color=000000)
+![Express](https://img.icons8.com/?size=50&id=2ZOaTclOqD4q&format=png&color=000000)
 > Node.js e Express são comumente usados juntos para desenvolvimento de backend com JavaScript.
 ---
 ### 🗄️ Banco de Dados
-![MySQL](https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000)
-![PostgreSQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)
+![MySQL](https://img.icons8.com/?size=50&id=9nLaR5KFGjN0&format=png&color=000000)
+![PostgreSQL](https://img.icons8.com/?size=50&id=LwQEs9KnDgIo&format=png&color=000000)
 > MySQL e PostgreSQL são amplamente utilizados para gerenciamento de dados em aplicações web.
 ---
 ### 🛠️ Ferramentas e outras tecnologias
-![Git](https://img.icons8.com/?size=100&id=etY3zzcgUvXp&format=png&color=000000) 
-![Docker](https://img.icons8.com/?size=100&id=GOHWqwnSE8Sv&format=png&color=000000)
-![Nginx](https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000)
-![VSCode](https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png&color=000000)
+![Git](https://img.icons8.com/?size=50&id=etY3zzcgUvXp&format=png&color=000000) 
+![Docker](https://img.icons8.com/?size=50&id=GOHWqwnSE8Sv&format=png&color=000000)
+![Nginx](https://img.icons8.com/?size=50&id=t2x6DtCn5Zzx&format=png&color=000000)
+![VSCode](https://img.icons8.com/?size=50&id=i19Ns28h30P4&format=png&color=000000)
 > VSCode como Editor predileto, conhecimentos básico em Docker, expertise com Git
 ---
 
