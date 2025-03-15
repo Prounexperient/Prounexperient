@@ -38,24 +38,6 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
   <img src="https://img.shields.io/badge/Tkinter-%23fcee0c?style=for-the-badge&logo=python&logoColor=black">
 </p>
 
----
-
-## 📊 Proficiências em Tecnologias
-
-### 📌 Linguagens (Gráfico de Pizza)
-![Linguagens](https://quickchart.io/chart?width=300&height=300&c={type:'pie',data:{labels:['Python','Java','JavaScript'],datasets:[{data:[85,75,80]}]}})
-
-### 📌 Frameworks Backend (Barras Verticais)
-![Backend](https://quickchart.io/chart?width=300&height=300&c={type:'bar',data:{labels:['Django','Reflex'],datasets:[{label:'Proficiência',data:[80,60]}]},options:{scales:{y:{beginAtZero:true,max:100}}}})
-
-### 📌 Frameworks Frontend (Barras Horizontais)
-![Frontend](https://quickchart.io/chart?width=300&height=300&c={type:'bar',data:{labels:['React.js','Vue.js'],datasets:[{label:'Proficiência',data:[75,65]}]},options:{indexAxis:'y',scales:{x:{beginAtZero:true,max:100}}}})
-
-### 📌 Outras Tecnologias (Gráfico Circular)
-![Outras Tecnologias](https://quickchart.io/chart?width=300&height=300&c={type:'radar',data:{labels:['SQL Server','PostgreSQL','Docker','Git','Tkinter'],datasets:[{label:'Proficiência',data:[70,75,60,85,50]}]}})
-
----
-
 ## 🌎 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ffcc?style=for-the-badge&logo=linkedin&logoColor=black)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/rodrigo-rodrigues-15021b5a/))
