@@ -24,7 +24,7 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ## Tecnologias e Ferramentas
 
 ### 💻 Python
-![Python](https://img.icons8.com/ios/50/python.png)
+![Python](https://img.icons8.com/?size=100&id=4BD3Vw52Gmi3&format=png&color=000000)
 ![Django](https://img.icons8.com/ios/50/django.png)
 
 - **[Reflex](https://reflex.dev/)** – Framework fullstack (Backend + Frontend)
