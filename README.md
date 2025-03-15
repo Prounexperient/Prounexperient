@@ -24,61 +24,59 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ## Tecnologias e Ferramentas
 
 ### 💻 Python
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+![Python](https://img.icons8.com/ios/100/python.png)  
 - **[Django](https://www.djangoproject.com/)** – Framework fullstack (Backend + Frontend)  
-  ![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg)
+  ![Django](https://img.icons8.com/ios/100/django.png)
 - **[Reflex](https://reflex.dev/)** – Framework fullstack (Backend + Frontend)  
-  ![Reflex](https://reflex.dev/images/reflex-logo.svg)
+  ![Reflex](https://img.icons8.com/ios/100/react.png) <!-- Reflex não tem ícone oficial, então substituí com um ícone de React -->
 
   > Django e Reflex compartilham a mesma finalidade de desenvolvimento fullstack em Python.
 
 ---
 
 ### 🌐 Frontend
-![Vue.js](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)  
+![Vue.js](https://img.icons8.com/ios/100/vue-js.png)  
 - **[Vue.js](https://vuejs.org/)** – Framework JavaScript para construção de interfaces dinâmicas.
 - **HTML5**  
-  ![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HTML5_logo.svg/800px-HTML5_logo.svg.png)
+  ![HTML5](https://img.icons8.com/ios/100/html-5.png)
 - **CSS3**  
-  ![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+  ![CSS3](https://img.icons8.com/ios/100/css3.png)
 - **SASS**  
-  ![SASS](https://upload.wikimedia.org/wikipedia/commons/6/62/Sass_Logo_Color.svg)
+  ![SASS](https://img.icons8.com/ios/100/sass.png)
 - **[Bootstrap](https://getbootstrap.com/)** – Framework CSS para designs responsivos.  
-  ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/4/43/Bootstrap_logo_2020.svg)
+  ![Bootstrap](https://img.icons8.com/ios/100/bootstrap.png)
 
   > Vue.js é utilizado em conjunto com HTML, CSS, SASS e Bootstrap para criação de interfaces modernas e interativas.
 
 ---
 
 ### ⚙️ Backend
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)  
+![Node.js](https://img.icons8.com/ios/100/nodejs.png)  
 - **[Node.js](https://nodejs.org/)** – Ambiente de execução para JavaScript no backend.
 - **[Express](https://expressjs.com/)** – Framework para Node.js, útil no desenvolvimento de APIs.  
-  ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+  ![Express](https://img.icons8.com/ios/100/express-js.png)
 
   > Node.js e Express são comumente usados juntos para desenvolvimento de backend com JavaScript.
 
 ---
 
 ### 🗄️ Banco de Dados
-![MySQL](https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg)  
+![MySQL](https://img.icons8.com/ios/100/mysql-logo.png)  
 - **[MySQL](https://www.mysql.com/)** – Banco de dados relacional.
 - **[PostgreSQL](https://www.postgresql.org/)** – Banco de dados relacional com maior foco em integridade dos dados e flexibilidade.  
-  ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg)
+  ![PostgreSQL](https://img.icons8.com/ios/100/postgreesql.png)
 
   > MySQL e PostgreSQL são amplamente utilizados para gerenciamento de dados em aplicações web.
 
 ---
 
 ### 🛠️ Ferramentas e outras tecnologias
-![Git](https://upload.wikimedia.org/wikipedia/commons/d/d3/Git-logo.svg)  
+![Git](https://img.icons8.com/ios/100/git.png)  
 - **[Git](https://git-scm.com/)** – Controle de versão.
-![Docker](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_logo.png)  
+![Docker](https://img.icons8.com/ios/100/docker.png)  
 - **[Docker](https://www.docker.com/)** – Plataforma de containers.
-![Nginx](https://upload.wikimedia.org/wikipedia/commons/c/c1/Nginx_logo.svg)  
+![Nginx](https://img.icons8.com/ios/100/nginx.png)  
 - **[Nginx](https://www.nginx.com/)** – Servidor web e proxy reverso.
-
----
 
 ---
 
