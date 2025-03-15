@@ -31,7 +31,7 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ---
 ### 🌐 Frontend Apenas  
 ![Vue.js](https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000)
-![HTML5](![image](https://github.com/user-attachments/assets/e0a9073f-f2d6-4c6b-9d9c-0bb7c67f4b68))
+![image](https://github.com/user-attachments/assets/e0a9073f-f2d6-4c6b-9d9c-0bb7c67f4b68)
 ![CSS3](https://img.icons8.com/ios/50/css3.png)
 ![SASS](https://img.icons8.com/ios/50/sass.png)
 ![Bootstrap](https://img.icons8.com/ios/50/bootstrap.png)
