@@ -23,17 +23,15 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ---
 ## Tecnologias e Ferramentas
 
-### 💻 Python
+### 💻 BACKEND & FRONTEND com Python e Frameworks
 - ![Python](https://img.icons8.com/?size=100&id=BCQsbzkWBELK&format=png&color=000000)
 - ![Django](https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000)
 - ![Reflex](https://reflex.dev/logos/dark/reflex.svg)
 > Django e Reflex compartilham a mesma finalidade de desenvolvimento fullstack em Python.
-
 ---
-
-### 🌐 Frontend  
-![Vue.js](https://img.icons8.com/ios/50/vuejs.png)
-![HTML5](https://img.icons8.com/ios/50/html-5.png)
+### 🌐 Frontend Apenas  
+![Vue.js](https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000)
+![HTML5](![image](https://github.com/user-attachments/assets/e0a9073f-f2d6-4c6b-9d9c-0bb7c67f4b68))
 ![CSS3](https://img.icons8.com/ios/50/css3.png)
 ![SASS](https://img.icons8.com/ios/50/sass.png)
 ![Bootstrap](https://img.icons8.com/ios/50/bootstrap.png)
