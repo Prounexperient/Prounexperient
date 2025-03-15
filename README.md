@@ -1,10 +1,3 @@
-![image](https://github.com/user-attachments/assets/7cc7fff1-45fc-4c41-9066-5ebd592d850f)- 👋 Hi, I’m @Prounexperient
-- 👀 I’m interested in, but not limited to, improve my skills with Python and Java, creating mainly web applications from DB schemas, server development, to client side.
-- 🌱 I’m currently learning Java, Springboot, DB design.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, through my Linkedin <profile-link>
-
-
 ![Cyberpunk Banner](https://livewallp.com/wp-content/uploads/2021/10/Cyberpunk-2077-219.jpg)
 
 <h1 align="center" style="color:#ff005c;">Rodrigo | Cyberpunk Dev</h1>
