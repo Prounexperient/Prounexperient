@@ -24,12 +24,19 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-```yaml
-  - Linguagens: Python, JAVA, JavaScript
-  - Frameworks: Django, Reflex, React, Vue.js
-  - Banco de Dados: SQL Server, PostgreSQL
-  - Outros: Git, Docker, Kamban, UML
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2300ffcc?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-%23fcee0c?style=for-the-badge&logo=openjdk&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-%23ff005c?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Django-%2300ffcc?style=for-the-badge&logo=django&logoColor=black">
+  <img src="https://img.shields.io/badge/Reflex-%23fcee0c?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/React-%23ff005c?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL%20Server-%2300ffcc?style=for-the-badge&logo=microsoftsqlserver&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23fcee0c?style=for-the-badge&logo=postgresql&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-%23ff005c?style=for-the-badge&logo=git&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-%2300ffcc?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/Tkinter-%23fcee0c?style=for-the-badge&logo=python&logoColor=black">
+</p>
 
 ---
 
