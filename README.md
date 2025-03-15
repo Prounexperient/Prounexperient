@@ -47,13 +47,12 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ![PostgreSQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)
 > MySQL e PostgreSQL são amplamente utilizados para gerenciamento de dados em aplicações web.
 ---
-
 ### 🛠️ Ferramentas e outras tecnologias
 ![Git](https://img.icons8.com/?size=100&id=etY3zzcgUvXp&format=png&color=000000) 
 ![Docker](https://img.icons8.com/?size=100&id=GOHWqwnSE8Sv&format=png&color=000000)
 ![Nginx](https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000)
 ![VSCode](https://img.icons8.com/?size=100&id=i19Ns28h30P4&format=png&color=000000)
-
+> VSCode como Editor predileto, conhecimentos básico em Docker, expertise com Git
 ---
 
 ## 🌎 Conecte-se comigo
