@@ -42,6 +42,8 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 
 ## 📊 Proficiências em Tecnologias
 
+![Linguagens](https://quickchart.io/chart?c={type:'pie',data:{labels:['Python','Java','JavaScript'],datasets:[{data:[85,75,80]}]}})
+
 ### 📌 Linguagens (Gráfico de Pizza)
 ![Python, Java, JavaScript](https://your-chart-image-link-here.com/piechart.png)
 
