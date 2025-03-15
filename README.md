@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Prounexperient
+![image](https://github.com/user-attachments/assets/7cc7fff1-45fc-4c41-9066-5ebd592d850f)- 👋 Hi, I’m @Prounexperient
 - 👀 I’m interested in, but not limited to, improve my skills with Python and Java, creating mainly web applications from DB schemas, server development, to client side.
 - 🌱 I’m currently learning Java, Springboot, DB design.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, through my Linkedin <profile-link>
 
 
-![Cyberpunk Banner](https://your-image-link-here.com/banner.jpg)
+![Cyberpunk Banner](https://livewallp.com/wp-content/uploads/2021/10/Cyberpunk-2077-219.jpg)
 
 <h1 align="center" style="color:#ff005c;">Rodrigo | Cyberpunk Dev</h1>
 
@@ -19,34 +19,35 @@
 
 ## 🚀 Sobre mim
 
-💾 Desenvolvedor apaixonado por tecnologia, soluções eficientes e otimização de processos.
+Desenvolvedor de Software | Especialista em Solução de Problemas Lógicos e Customização de Sistemas
 
-🎯 Foco em performance, sistemas distribuídos e desenvolvimento de software robusto.
+Sou desenvolvedor de software com mais de uma década de experiência em programação e um forte compromisso com excelência e inovação. Minha especialidade é a resolução de problemas lógicos complexos, identificando os melhores algoritmos, tecnologias e ferramentas para diferentes desafios.
 
-🔧 Explorando eletrônica aplicada a hardware, incluindo manutenção de placas de vídeo.
+Tenho proficiência em linguagens como Python, Java e Javascript, além de experiência prática com frameworks e bibliotecas como Django e programação reativa. Também possuo experiência em aplicações REST, projetando e consumindo APIs eficientes e seguras. Minha trajetória inclui profundo conhecimento em bancos de dados relacionais, especialmente com SQL Server, e expertise em customização da plataforma IBM MAXIMO.
+
+Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma mentalidade focada e apaixonada pela evolução tecnológica, sempre alinhada às necessidades do mercado atual.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ```yaml
-  - Linguagens: Python, Java, JavaScript
-  - Frameworks: Django, Reflex, React
+  - Linguagens: Python, JAVA, JavaScript
+  - Frameworks: Django, Reflex, React, Vue.js
   - Banco de Dados: SQL Server, PostgreSQL
-  - Outros: Git, Docker, Tkinter
+  - Outros: Git, Docker, Kamban, UML
 ```
 
 ---
 
 ## 🌎 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ffcc?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-%23fcee0c?style=for-the-badge&logo=github&logoColor=black)](https://github.com/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-%23ff005c?style=for-the-badge&logo=gmail&logoColor=black)](mailto:seu-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ffcc?style=for-the-badge&logo=linkedin&logoColor=black)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/rodrigo-rodrigues-15021b5a/))
+[![GitHub](https://img.shields.io/badge/GitHub-%23fcee0c?style=for-the-badge&logo=github&logoColor=black)]([https://github.com/seu-usuario](https://github.com/Prounexperient))
 
 ---
 
-<p align="center">⚡ "We have a city to burn." ⚡</p>
+<p align="center">⚡ "We have a city to Hack." ⚡</p>
 
 
 
