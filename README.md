@@ -27,7 +27,7 @@ Como autodidata e formando em Análise e Desenvolvimento de Sistemas, trago uma 
 ![Python](https://img.icons8.com/?size=100&id=BCQsbzkWBELK&format=png&color=000000)
 ![Django](https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000)
 
-- **[Reflex](https://reflex.dev/)** – Framework fullstack (Backend + Frontend)
+- **[Reflex](https://reflex.dev/logos/dark/reflex.svg)** – Framework fullstack (Backend + Frontend)
 
 > Django e Reflex compartilham a mesma finalidade de desenvolvimento fullstack em Python.
 
